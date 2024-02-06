@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\stack.1575\stack.1575\bin\Debug\stack.1575.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\stack.1575\stack.1575\bin\Debug\stack.1575.exe
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\stack.1575\stack.1575\bin\Debug\stack.1575.pdb
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\stack.1575\stack.1575\obj\Debug\stack.1575.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\stack.1575\stack.1575\obj\Debug\stack.1575.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\stack.1575\stack.1575\obj\Debug\stack._1575.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\stack.1575\stack.1575\obj\Debug\stack._1575.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\stack.1575\stack.1575\obj\Debug\stack.1575.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\stack.1575\stack.1575\obj\Debug\stack.1575.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\stack.1575\stack.1575\obj\Debug\stack.1575.exe
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\stack.1575\stack.1575\obj\Debug\stack.1575.pdb
